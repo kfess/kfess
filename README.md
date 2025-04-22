@@ -1,4 +1,4 @@
-## Welcome to my GitHub Repository 👋
+## Welcome to my GitHub Repository
 
 🔭 I’m interested in Kubernetes.
 
