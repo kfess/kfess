@@ -1,8 +1,8 @@
 ## Welcome to my GitHub Repository
 
-🔭 I’m interested in Kubernetes.
+🔭 I love in Kubernetes.
 
-- [Kubernetes Website Localization Tracker](https://kfess.github.io/kube-i18n-status) (Deployed on GitHub Pages)
+- [Kubernetes Website Localization Tracker](https://kfess.github.io/kube-i18n-status)
 
 <!--
 **kfess/kfess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
