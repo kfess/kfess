@@ -2,7 +2,7 @@
 
 🔭 I’m currently interested in Kubernetes.
 
-- [Kubernetes Website localization tracker](https://kfess.github.io/kube-i18n-status) (Deployed on GitHub Pages)
+- [Kubernetes Website Localization Tracker](https://kfess.github.io/kube-i18n-status) (Deployed on GitHub Pages)
 
 <!--
 **kfess/kfess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
