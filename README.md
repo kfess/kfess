@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Repository
 
-🔭 I love in Kubernetes.
+🔭 I like Kubernetes.
 
 - [Kubernetes Website Localization Tracker](https://kfess.github.io/kube-i18n-status)
 
