@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently interested in Kubernetes.
+🔭 I’m interested in Kubernetes.
 
 - [Kubernetes Website Localization Tracker](https://kfess.github.io/kube-i18n-status) (Deployed on GitHub Pages)
 
