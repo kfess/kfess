@@ -1,6 +1,10 @@
 ## Welcome to my GitHub Repository
 
-🔭 I like Kubernetes.
+🔭 I'm currently exploring cloud-native technologies, with a strong interest in:
+
+- **Cloud infrastructure**
+- **Kubernetes & container orchestration**
+- **GitHub Actions**
 
 <!--
 **kfess/kfess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
