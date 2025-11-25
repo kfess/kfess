@@ -2,9 +2,8 @@
 
 🔭 I'm currently exploring cloud-native technologies, with a strong interest in:
 
+- **Kubernetes**
 - **Cloud infrastructure**
-- **Kubernetes & container orchestration**
-- **GitHub Actions**
 
 <!--
 **kfess/kfess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
