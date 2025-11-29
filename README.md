@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Repository
 
-🔭 I like cloud-native technologies, with a strong interest in:
+🌱 I like cloud-native technologies, with a strong interest in:
 
 - **Kubernetes**
 - **Cloud infrastructure**
