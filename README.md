@@ -3,6 +3,8 @@
 🌱 I like cloud-native technologies, such as
 
 - **Kubernetes**
+  - sig/docs
+  - sig/cli
 - **Cloud infrastructure**
 
 <!--
