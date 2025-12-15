@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Repository
 
-🌱 Open source projects I'm currentyly working with
+🌱 Open source projects I'm currently working with
 
 - **Kubernetes**
   - sig/docs
