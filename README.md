@@ -1,11 +1,10 @@
 ## Welcome to my GitHub Repository
 
-🌱 I like cloud-native technologies, such as
+🌱 Open source projects I'm currentyly working with
 
 - **Kubernetes**
   - sig/docs
   - sig/cli
-- **Cloud infrastructure**
 
 <!--
 **kfess/kfess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
