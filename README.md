@@ -15,7 +15,7 @@ I'm currently working with
 
 ### Work
 
-In my job, I work with TypeScript, React, Vue.js, and Python, in addition to infrastructure technologies like Kubernetes.
+In my job, I work with modern frontend and backend in addition to infrastructure technologies like Kubernetes.
 
 <!--
 **kfess/kfess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
