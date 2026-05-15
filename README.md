@@ -11,7 +11,7 @@ I'm currently working with
 
 ### Roles
 
-- [kubernetes/website](https://github.com/kubernetes/website) Japanese Reviewer / Approver
+- [kubernetes/website](https://github.com/kubernetes/website) Reviewer / Approver
 
 ### Work
 
