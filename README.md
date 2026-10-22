@@ -17,6 +17,10 @@ I'm currently working with
 
 In my job, I work with modern frontend and backend in addition to infrastructure technologies like Kubernetes.
 
+### Other
+
+Missing the good old days of the web. → https://kfess.github.io/good-old-days/
+
 <!--
 **kfess/kfess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
